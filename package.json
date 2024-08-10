@@ -1,0 +1,14 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Practica final jhon. :/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jhon Axell Almanzar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
